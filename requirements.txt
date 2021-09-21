@@ -1,0 +1,6 @@
+sklearn
+transformers
+pandas
+xlrd
+openpyxl
+wandb
